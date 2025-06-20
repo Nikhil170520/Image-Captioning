@@ -28,9 +28,7 @@ Visualization	matplotlib, NumPy
 Dummy Captioning	Python (random caption selection)
 
 📂 Folder Structure
-graphql
-Copy
-Edit
+
 Image_Captioning_Segmentation/
 ├── app.py                     # Streamlit app
 ├── captioning_model.py       # Simulated caption generator
